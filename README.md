@@ -17,5 +17,8 @@ Teste de Unidade, Teste de Widget, Teste de Ouro e Teste de Integração
 
 Images do APP:
 
+O aplicativo é bem simples e seu intuito é que ao usuário clicar no botão GetAdvice ele retorNe de manaiera aleatória um conselho que será adquirido a partir da seguine API:
+ - https://api.flutter-community.com/api/v1/advice
+   
 ![image](https://github.com/user-attachments/assets/30120aaa-cbc1-411d-84d2-516bf4edfde1)
 ![image](https://github.com/user-attachments/assets/2dbf67c0-4ceb-4df6-8028-150dcaa017e1)
