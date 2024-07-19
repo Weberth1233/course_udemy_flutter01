@@ -17,7 +17,7 @@ Conhecimentos adquiridos com esse projeto:
 
 Images do APP:
 
-O aplicativo é bem simples e seu intuito é que ao usuário clicar no botão GetAdvice ele retorne de manaiera aleatória um conselho que será adquirido a partir da seguine API:
+O aplicativo é bem simples e seu intuito é que ao usuário clicar no botão GetAdvice ele retorne de maneira aleatória um conselho que será adquirido a partir da seguine API:
  - https://api.flutter-community.com/api/v1/advice
    
 ![image](https://github.com/user-attachments/assets/30120aaa-cbc1-411d-84d2-516bf4edfde1)
