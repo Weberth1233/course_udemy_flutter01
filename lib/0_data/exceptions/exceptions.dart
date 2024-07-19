@@ -1,5 +1,5 @@
 //Qaulquer erro que ocorra no servidor
-class ServerExceptions implements Exception {}
+class ServerException implements Exception {}
 
 //Qualquer erro que ocorra no cache
-class CacheExceptions implements Exception {}
+class CacheException implements Exception {}
